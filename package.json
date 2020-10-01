@@ -1,0 +1,23 @@
+{
+  "name": "marvel_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "marvel.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemali91/Marvel_WebPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemali91/Marvel_WebPage/issues"
+  },
+  "homepage": "https://github.com/Hemali91/Marvel_WebPage#readme",
+  "devDependencies": {
+    "cypress": "^5.2.0"
+  }
+}
